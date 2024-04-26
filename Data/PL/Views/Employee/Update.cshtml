@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+    var dep = new SelectList(ViewBag.departments, "Id", "Name");
+}
+
+
+<div class=" row">
+    <div class="c01-6">
+        <form asp-action="Update" asp-controller="Employee" enctype="multipart/form-data">
+            <partial name="CreateOrUpdatepartial" />
+            <input type="submit" value="Update" class="btn btn-primary" />
+            <a asp-action="Goo" class="btn btn-1ight">Back To List</a>
+        </form>
+    </div>
+</div>
+

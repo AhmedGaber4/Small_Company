@@ -1,0 +1,1200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\roles\\addorremoveusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\roles\\addorremoveusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\roles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\roles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\roles\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\roles\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\models\\userinroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\models\\userinroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\models\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\models\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\department\\go.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\department\\go.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\roles\\partialview\\createandeditpsrtailview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\roles\\partialview\\createandeditpsrtailview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\shared\\_buttonspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\shared\\_buttonspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\users\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\users\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\users\\go.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\users\\go.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\users\\partialview\\createandeditpsrtailview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\users\\partialview\\createandeditpsrtailview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\roles\\goo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\roles\\goo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\roles\\partialview\\detailsanddeletepsrtailview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\roles\\partialview\\detailsanddeletepsrtailview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\mydbcontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\mydbcontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\employee\\goo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\employee\\goo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\employee\\createorupdatepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\employee\\createorupdatepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\account\\completeforgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\account\\completeforgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\users\\partialview\\detailsanddeletepsrtailview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\users\\partialview\\detailsanddeletepsrtailview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\logic\\repositories\\emprepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|solutionrelative:logic\\repositories\\emprepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\logic\\repositories\\deprepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|solutionrelative:logic\\repositories\\deprepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\logic\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|solutionrelative:logic\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\logic\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|solutionrelative:logic\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\logic\\interfaces\\iemprepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|solutionrelative:logic\\interfaces\\iemprepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\logic\\interfaces\\ideprepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|solutionrelative:logic\\interfaces\\ideprepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\thebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\thebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\helper\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\helper\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\models\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\models\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\helper\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\helper\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\logic\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|solutionrelative:logic\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\mapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\mapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\logic\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|solutionrelative:logic\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829F794D-946A-44A7-8CFC-9413EA1FE429}|PL\\PL.csproj|solutionrelative:pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\logic\\logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77028990-E2A1-448B-A183-429BF2F3AFA9}|Logic\\Logic.csproj|solutionrelative:logic\\logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\migrations\\20240309012418_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240309012418_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\migrations\\20240328215243_addidenty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240328215243_addidenty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|d:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\c#\\@c#\\the mvc 2\\data\\data\\migrations\\20240407150133_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B63645-3ED1-461F-B4A7-A65E6412F2A6}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240407150133_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAAAJMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:23:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "PL\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T01:44:54.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "PL\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T22:18:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PL\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:19:35.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "PL\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T22:33:31.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationRole.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\ApplicationRole.cs",
+              "RelativeToolTip": "Data\\ApplicationRole.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:57:04.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:51:21.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddOrRemoveUsers.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\AddOrRemoveUsers.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Roles\\AddOrRemoveUsers.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\AddOrRemoveUsers.cshtml",
+              "RelativeToolTip": "PL\\Views\\Roles\\AddOrRemoveUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T05:12:08.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Program.cs",
+              "RelativeDocumentMoniker": "PL\\Program.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Program.cs",
+              "RelativeToolTip": "PL\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:19:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\appsettings.json",
+              "RelativeDocumentMoniker": "PL\\appsettings.json",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\appsettings.json",
+              "RelativeToolTip": "PL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T01:19:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "PL\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "PL\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-13T13:35:44.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\Details.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Roles\\Details.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\Details.cshtml",
+              "RelativeToolTip": "PL\\Views\\Roles\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T04:47:51.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Department\\Details.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "PL\\Views\\Department\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T22:40:42.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "PL\\Models\\DepartmentViewModel.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\DepartmentViewModel.cs",
+              "RelativeToolTip": "PL\\Models\\DepartmentViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T19:47:20.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserInRoleViewModel.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\UserInRoleViewModel.cs",
+              "RelativeDocumentMoniker": "PL\\Models\\UserInRoleViewModel.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\UserInRoleViewModel.cs",
+              "RelativeToolTip": "PL\\Models\\UserInRoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:56:42.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Go.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Department\\Go.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Department\\Go.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Department\\Go.cshtml",
+              "RelativeToolTip": "PL\\Views\\Department\\Go.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T01:38:51.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateandEditpsrtailview.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\partialview\\CreateandEditpsrtailview.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Roles\\partialview\\CreateandEditpsrtailview.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\partialview\\CreateandEditpsrtailview.cshtml",
+              "RelativeToolTip": "PL\\Views\\Roles\\partialview\\CreateandEditpsrtailview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T15:31:28.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\Update.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Roles\\Update.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\Update.cshtml",
+              "RelativeToolTip": "PL\\Views\\Roles\\Update.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T04:50:31.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ButtonsPartialView.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Shared\\_ButtonsPartialView.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Shared\\_ButtonsPartialView.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Shared\\_ButtonsPartialView.cshtml",
+              "RelativeToolTip": "PL\\Views\\Shared\\_ButtonsPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T22:05:19.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PL\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIAwwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:47:49.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\Update.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Users\\Update.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\Update.cshtml",
+              "RelativeToolTip": "PL\\Views\\Users\\Update.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:37:05.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Go.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\Go.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Users\\Go.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\Go.cshtml",
+              "RelativeToolTip": "PL\\Views\\Users\\Go.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T21:31:42.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Users\\Details.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "PL\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T22:25:01.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateandEditpsrtailview.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\partialview\\CreateandEditpsrtailview.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Users\\partialview\\CreateandEditpsrtailview.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\partialview\\CreateandEditpsrtailview.cshtml",
+              "RelativeToolTip": "PL\\Views\\Users\\partialview\\CreateandEditpsrtailview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T22:20:52.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Goo.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\Goo.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Roles\\Goo.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\Goo.cshtml",
+              "RelativeToolTip": "PL\\Views\\Roles\\Goo.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T15:08:15.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "PL\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T15:25:59.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DetailsandDeletepsrtailview.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\partialview\\DetailsandDeletepsrtailview.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Roles\\partialview\\DetailsandDeletepsrtailview.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Roles\\partialview\\DetailsandDeletepsrtailview.cshtml",
+              "RelativeToolTip": "PL\\Views\\Roles\\partialview\\DetailsandDeletepsrtailview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T04:48:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MyDbcontexts.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\MyDbcontexts.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbcontexts.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\MyDbcontexts.cs",
+              "RelativeToolTip": "Data\\MyDbcontexts.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:17:55.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T23:26:09.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Department\\Create.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "PL\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T01:41:55.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T19:52:45.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T01:39:27.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Goo.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\Goo.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Employee\\Goo.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\Goo.cshtml",
+              "RelativeToolTip": "PL\\Views\\Employee\\Goo.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T01:48:57.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwIYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:37:04.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateOrUpdatepartial.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\CreateOrUpdatepartial.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Employee\\CreateOrUpdatepartial.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Employee\\CreateOrUpdatepartial.cshtml",
+              "RelativeToolTip": "PL\\Views\\Employee\\CreateOrUpdatepartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T22:04:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Account\\ForgetPassword.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeToolTip": "PL\\Views\\Account\\ForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T21:45:53.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CompleteForgetPassword.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Account\\CompleteForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Account\\CompleteForgetPassword.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Account\\CompleteForgetPassword.cshtml",
+              "RelativeToolTip": "PL\\Views\\Account\\CompleteForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T22:14:32.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "PL\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T22:16:37.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "PL\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T22:32:26.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Department.cs",
+              "RelativeDocumentMoniker": "Data\\Department.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Department.cs",
+              "RelativeToolTip": "Data\\Department.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:16:51.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240407150133_addrole.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Migrations\\20240407150133_addrole.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240407150133_addrole.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Migrations\\20240407150133_addrole.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240407150133_addrole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:01:33.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T14:56:35.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DetailsandDeletepsrtailview.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\partialview\\DetailsandDeletepsrtailview.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Users\\partialview\\DetailsandDeletepsrtailview.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Users\\partialview\\DetailsandDeletepsrtailview.cshtml",
+              "RelativeToolTip": "PL\\Views\\Users\\partialview\\DetailsandDeletepsrtailview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T22:23:30.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EmpRepositories.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Repositories\\EmpRepositories.cs",
+              "RelativeDocumentMoniker": "Logic\\Repositories\\EmpRepositories.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Repositories\\EmpRepositories.cs",
+              "RelativeToolTip": "Logic\\Repositories\\EmpRepositories.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:29:38.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DepRepositories.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Repositories\\DepRepositories.cs",
+              "RelativeDocumentMoniker": "Logic\\Repositories\\DepRepositories.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Repositories\\DepRepositories.cs",
+              "RelativeToolTip": "Logic\\Repositories\\DepRepositories.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAWwA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:28:04.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Logic\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Logic\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:39:45.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Logic\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Logic\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:57:18.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IEmpRepositories.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Interfaces\\IEmpRepositories.cs",
+              "RelativeDocumentMoniker": "Logic\\Interfaces\\IEmpRepositories.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Interfaces\\IEmpRepositories.cs",
+              "RelativeToolTip": "Logic\\Interfaces\\IEmpRepositories.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:27:08.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IDepRepositories.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Interfaces\\IDepRepositories.cs",
+              "RelativeDocumentMoniker": "Logic\\Interfaces\\IDepRepositories.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Interfaces\\IDepRepositories.cs",
+              "RelativeToolTip": "Logic\\Interfaces\\IDepRepositories.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADgvw8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:26:32.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "PL\\Models\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "PL\\Models\\EmployeeViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T23:25:55.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TheBase.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\TheBase.cs",
+              "RelativeDocumentMoniker": "Data\\TheBase.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\TheBase.cs",
+              "RelativeToolTip": "Data\\TheBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:50:49.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "PL\\Models\\ResetPasswordViewModel.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "PL\\Models\\ResetPasswordViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:06:13.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "PL\\Models\\SignInViewModel.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\SignInViewModel.cs",
+              "RelativeToolTip": "PL\\Models\\SignInViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:03:18.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "PL\\Models\\SignUpViewModel.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\SignUpViewModel.cs",
+              "RelativeToolTip": "PL\\Models\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:58:20.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ForgetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\ForgetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "PL\\Models\\ForgetPasswordViewModel.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\ForgetPasswordViewModel.cs",
+              "RelativeToolTip": "PL\\Models\\ForgetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:49:08.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Helper\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "PL\\Helper\\EmailSettings.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Helper\\EmailSettings.cs",
+              "RelativeToolTip": "PL\\Helper\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T21:35:41.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Helper\\Email.cs",
+              "RelativeDocumentMoniker": "PL\\Helper\\Email.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Helper\\Email.cs",
+              "RelativeToolTip": "PL\\Helper\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:21.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PL\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PL\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:05:34.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PL\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T19:52:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "Data\\Employee.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Employee.cs",
+              "RelativeToolTip": "Data\\Employee.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wBoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:16:10.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DocumentSettings.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Helper\\DocumentSettings.cs",
+              "RelativeDocumentMoniker": "PL\\Helper\\DocumentSettings.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Helper\\DocumentSettings.cs",
+              "RelativeToolTip": "PL\\Helper\\DocumentSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:38:14.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PL\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PL\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T23:16:53.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "PL\\wwwroot\\css\\Style.css",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "PL\\wwwroot\\css\\Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T23:17:50.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240328215243_addidenty.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Migrations\\20240328215243_addidenty.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240328215243_addidenty.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Migrations\\20240328215243_addidenty.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240328215243_addidenty.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:52:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Logic\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Logic\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:59:06.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Department\\Update.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "PL\\Views\\Department\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T03:51:23.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PL.csproj",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\PL.csproj",
+              "RelativeDocumentMoniker": "PL\\PL.csproj",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\PL.csproj",
+              "RelativeToolTip": "PL\\PL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T01:26:08.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\mapper\\Mapper.cs",
+              "RelativeDocumentMoniker": "PL\\mapper\\Mapper.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\mapper\\Mapper.cs",
+              "RelativeToolTip": "PL\\mapper\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:06:14.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Logic\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Logic\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBZwCQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:51:53.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PL\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T19:54:44.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T01:59:09.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Logic.csproj",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Logic.csproj",
+              "RelativeDocumentMoniker": "Logic\\Logic.csproj",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Logic\\Logic.csproj",
+              "RelativeToolTip": "Logic\\Logic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T01:25:28.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240309012418_init.cs",
+              "DocumentMoniker": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Migrations\\20240309012418_init.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240309012418_init.cs",
+              "ToolTip": "D:\\@mycarer\\# \u0627\u0644\u0643\u0627\u0631\u064A\u0631\\\u062E\u0627\u0644\u062F\\C#\\@C#\\The Mvc 2\\Data\\Data\\Migrations\\20240309012418_init.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240309012418_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T01:24:18.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

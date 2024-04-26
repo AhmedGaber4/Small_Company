@@ -1,0 +1,37 @@
+﻿@model ApplicationRole
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update user</h1>
+
+
+<br />
+
+<br />
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Update" asp-controller="Roles">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <input hidden asp-for="Id" />
+            <partial name="partialview/CreateandEditpsrtailview" model="@Model" />
+
+           <div>
+            <a class="btn btn-success" asp-action="AddOrRemoveUsers" asp-controller="Roles" asp-route-roleid="@Model.Id"> AddOrRemoveUsers </a>
+
+           </div>
+
+
+
+         
+
+
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Goo" class="btn btn-light">Back To List</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

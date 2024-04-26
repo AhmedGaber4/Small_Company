@@ -1,0 +1,29 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update user</h1>
+
+
+<br />
+
+<br />
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Update" asp-controller="Users">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <input hidden asp-for="Id" />
+            <partial name="partialview/CreateandEditpsrtailview" model="@Model" />
+
+             <br />
+
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Go" class="btn btn-light">Back To List</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

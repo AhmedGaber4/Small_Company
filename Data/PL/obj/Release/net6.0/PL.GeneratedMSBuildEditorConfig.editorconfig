@@ -1,0 +1,163 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PL
+build_property.RootNamespace = PL
+build_property.ProjectDir = D:\@mycarer\# الكارير\خالد\C#\@C#\The Mvc 2\Data\PL\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\@mycarer\# الكارير\خالد\C#\@C#\The Mvc 2\Data\PL
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Account/CompleteForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb21wbGV0ZUZvcmdldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Account/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Department/Go.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxHby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Department/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Employee/CreateOrUpdatepartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlT3JVcGRhdGVwYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Employee/Goo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcR29vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Employee/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Roles/AddOrRemoveUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQWRkT3JSZW1vdmVVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Roles/Goo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcR29vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Roles/partialview/CreateandEditpsrtailview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNccGFydGlhbHZpZXdcQ3JlYXRlYW5kRWRpdHBzcnRhaWx2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Roles/partialview/DetailsandDeletepsrtailview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNccGFydGlhbHZpZXdcRGV0YWlsc2FuZERlbGV0ZXBzcnRhaWx2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Roles/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Shared/_ButtonsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXR0b25zUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Users/Go.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcR28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Users/partialview/CreateandEditpsrtailview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNccGFydGlhbHZpZXdcQ3JlYXRlYW5kRWRpdHBzcnRhaWx2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Users/partialview/DetailsandDeletepsrtailview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNccGFydGlhbHZpZXdcRGV0YWlsc2FuZERlbGV0ZXBzcnRhaWx2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Users/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/@mycarer/\# الكارير/خالد/C\#/@C\#/The Mvc 2/Data/PL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ykycstrbf1
